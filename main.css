@@ -239,12 +239,12 @@
         border-style: solid;
         border-color: #A60303;
         border-width:4px;
-        width: 909px;
-        height: 1512px;
+        width: 606px;
+        height: 1008px;
     }
     #napistl{
         position: absolute;
-        top:75%;
+        top:55%;
         left:0%;
         background-color: #590202;
         width: 100%;
